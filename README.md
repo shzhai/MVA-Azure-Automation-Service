@@ -1,7 +1,5 @@
 # 微软虚拟学院在线课程 MVA Azure Automation Service Demo 
 
-标签（空格分隔）： 微软虚拟学员 在线课程 Azure 云服务 自动化 微软
-
 ---
 
 [在线课程访问网址][1]
@@ -22,7 +20,7 @@
 [Azure自动化服务门户介绍][2]
 [Azure 自动化入门][3]
 [如何创建 Runbook][4]
-[Azure 自动化 Cmdlet][5]
+[Azure 自动化 Cmdlet][5]
 [SMA服务管理自动化][6]
 [脚本中心][7]
 
